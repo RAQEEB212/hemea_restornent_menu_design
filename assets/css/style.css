@@ -13,7 +13,9 @@
 
 
 body {
-  font-family: "Noto Sans", Helvetica;
+  /*font-family: "Noto Sa;*/
+  font-family: "Noto Sans";
+
   color: #444444;
 }
 
@@ -33,7 +35,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Dosis", sans-serif;
+  /*font-family: "Dosis", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
 }
 
 /*--------------------------------------------------------------
@@ -88,7 +91,8 @@ h6 {
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Lato", sans-serif;
+  /*font-family: "Lato", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
 }
 
 #header .logo a {
@@ -129,7 +133,8 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Dosis", sans-serif;
+  /*font-family: "Dosis", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
   font-size: 15px;
   font-weight: 600;
   color: #0f394c;
@@ -365,6 +370,7 @@ h6 {
   /*background-color:bisque;*/
   /*border-color: ;*/
   /*font-family: "Dosis", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
   /*border-color: #087990;*/
   /*border: 10px;*/
   font-weight: 500;
@@ -633,7 +639,8 @@ section {
   font-weight: 700;
   display: block;
   color: #49b5e7;
-  font-family: "Dosis", sans-serif;
+  /*font-family: "Dosis", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
 }
 
 .counts .counters p {
@@ -1312,7 +1319,8 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 400;
-  font-family: "Lato", sans-serif;
+  /*font-family: "Lato", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
 }
 
 .breadcrumbs ol {
@@ -1433,7 +1441,8 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Lato", sans-serif;
+  /*font-family: "Lato", sans-serif;*/
+  /*font-family: "Noto Sans", Helvetica;*/
   color: #777777;
 }
 
